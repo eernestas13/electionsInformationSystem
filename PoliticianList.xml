@@ -1,0 +1,68 @@
+<object-stream>
+  <HashTable>
+    <hashTable>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList">
+          <head>
+            <politician>
+              <firstName>Ben</firstName>
+              <lastName>Murphy</lastName>
+              <politicalParty>Independant</politicalParty>
+              <homeCounty>Waterford</homeCounty>
+              <imgURL>blank</imgURL>
+            </politician>
+          </head>
+          <tail reference="../head"/>
+        </value>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList">
+          <head>
+            <politician>
+              <firstName>Aaron </firstName>
+              <lastName>Russell</lastName>
+              <politicalParty>Sinn Feinn</politicalParty>
+              <homeCounty>Wexfor</homeCounty>
+              <imgURL>blank</imgURL>
+            </politician>
+          </head>
+          <tail reference="../head"/>
+        </value>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+      <HashTable_-HashNode>
+        <value class="PoliticianList"/>
+        <outer-class reference="../../.."/>
+      </HashTable_-HashNode>
+    </hashTable>
+  </HashTable>
+</object-stream>
